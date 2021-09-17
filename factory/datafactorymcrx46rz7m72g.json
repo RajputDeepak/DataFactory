@@ -1,0 +1,9 @@
+{
+	"name": "datafactorymcrx46rz7m72g",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f6e5b0cd-17c0-4be3-83ff-8cf991c02f59",
+		"tenantId": "d92214fc-5c22-4e17-a645-c1c8025d11cb"
+	}
+}
